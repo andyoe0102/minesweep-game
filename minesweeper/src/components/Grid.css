@@ -1,0 +1,10 @@
+.grid{
+    width:600px;
+    height:600px;
+    display:block;
+    margin:auto;
+}
+
+.row{
+    display:inline-block
+}
